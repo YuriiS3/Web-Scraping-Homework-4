@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Conducteur de compacteur  a pneus  H/F",
+        "url": "https://www.lejobadequat.com/emplois/261718-conducteur-de-compacteur-a-pneus-h-f-fr"
+    },
+    {
+        "title": "Conducteur nacelliste  H/F",
+        "url": "https://www.lejobadequat.com/emplois/261716-conducteur-nacelliste-f-h-fr"
+    },
+    {
+        "title": "Ouvrier polyvalent  H/F",
+        "url": "https://www.lejobadequat.com/emplois/261715-ouvrier-polyvalent-h-f-fr"
+    },
+    {
+        "title": "Menuisier  H/F",
+        "url": "https://www.lejobadequat.com/emplois/261713-menuisier-h-f-fr"
+    },
+    {
+        "title": "Op\u00e9rateur commandes numeriques  H/F",
+        "url": "https://www.lejobadequat.com/emplois/261712-operateur-commandes-numeriques-h-f-fr"
+    },
+    {
+        "title": "Op\u00e9rateur de production  H/F",
+        "url": "https://www.lejobadequat.com/emplois/261711-operateur-de-production-f-h-fr"
+    },
+    {
+        "title": "Pr\u00e9parateur de commandes  H/F",
+        "url": "https://www.lejobadequat.com/emplois/261710-preparateur-de-commandes-f-h-fr"
+    },
+    {
+        "title": "Chef d&#8217;atelier  H/F",
+        "url": "https://www.lejobadequat.com/emplois/261709-chef-datelier-f-h-fr"
+    },
+    {
+        "title": "Installateur de mat\u00e9riels agricole  H/F)",
+        "url": "https://www.lejobadequat.com/emplois/261708-installateur-de-materiels-agricole-f-h-fr"
+    },
+    {
+        "title": "Hote(sse) d&#8217;accueil standardiste  H/F",
+        "url": "https://www.lejobadequat.com/emplois/261707-hotesse-daccueil-standardiste-h-f-fr"
+    },
+    {
+        "title": "Manoeuvre",
+        "url": "https://www.lejobadequat.com/emplois/261706-manoeuvre-fr"
+    },
+    {
+        "title": "Chauffeur PL et spl  H/F",
+        "url": "https://www.lejobadequat.com/emplois/261705-chauffeur-pl-et-spl-h-f-fr"
+    }
+]
